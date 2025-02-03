@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcoGiven
 - 👀 I’m interested in software development, web design, and hardware modding!
-- 🌱 I’m currently learning javascript and swift -- aswell as mastering C for low level programming courses
+- 🌱 I’m currently learning javascript and Java -- aswell as mastering C for low level programming courses
 - 💞️ I’m looking to collaborate on whatever!
 - 📫 How to reach me: info@marcogiven.com or marco.given@temple.edu
 - 😄 Pronouns: He/Him
