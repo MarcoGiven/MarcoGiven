@@ -7,43 +7,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoGiven&layout=compact&theme=shadow_blue)
 
-### 🧰 Languages & Tools
-<p align="left">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Shell Script"/>
-
-  <!-- Tools & Terminals -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="40" height="40" alt="Neovim"/>
-  <img src="https://raw.githubusercontent.com/alacritty/alacritty/master/assets/logo/Alacritty-Logo-Square.svg" width="40" height="40" alt="Alacritty"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/PsychoPy_Logo.png" width="40" height="40" alt="PsychoPy"/>
-  <img src="https://gorilla.sc/img/logo-full.svg" width="80" height="40" alt="Gorilla"/>
-
-  <!-- OS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Arch Linux"/>
-
-  <!-- IDEs -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-  <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" width="40" height="40" alt="IntelliJ IDEA"/>
-  <img src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" width="40" height="40" alt="CLion"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40" alt="Eclipse"/>
-
-  <!-- Game Dev -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity"/>
-</p>
-
-
-
-
-
-
 ### 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
