@@ -8,25 +8,29 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoGiven&layout=compact&theme=shadow_blue)
 
 ### 🧰 Languages & Tools
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![PsychoPy](https://img.shields.io/badge/PsychoPy-3E3E3E?style=flat-square&logo=python&logoColor=white)
-![Gorilla](https://img.shields.io/badge/Gorilla.sc-FF4D5A?style=flat-square&logo=google-chrome&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![C](https://img.shields.io/badge/-?style=flat-square&logo=c&logoColor=white&label=)
+![C#](https://img.shields.io/badge/-?style=flat-square&logo=c-sharp&logoColor=white&label=)
+![Java](https://img.shields.io/badge/-?style=flat-square&logo=java&logoColor=white&label=)
+![JavaScript](https://img.shields.io/badge/-?style=flat-square&logo=javascript&logoColor=white&label=)
+![HTML5](https://img.shields.io/badge/-?style=flat-square&logo=html5&logoColor=white&label=)
+![CSS3](https://img.shields.io/badge/-?style=flat-square&logo=css3&logoColor=white&label=)
+
+![Git](https://img.shields.io/badge/-?style=flat-square&logo=git&logoColor=white&label=)
+![Neovim](https://img.shields.io/badge/-?style=flat-square&logo=neovim&logoColor=white&label=)
+![Alacritty](https://img.shields.io/badge/-?style=flat-square&logo=alacritty&logoColor=white&label=)
+![PsychoPy](https://img.shields.io/badge/-?style=flat-square&logo=python&logoColor=white&label=)
+![Gorilla](https://img.shields.io/badge/-?style=flat-square&logo=google-chrome&logoColor=white&label=)
+
+![Linux](https://img.shields.io/badge/-?style=flat-square&logo=linux&logoColor=black&label=)
+![Arch Linux](https://img.shields.io/badge/-?style=flat-square&logo=arch-linux&logoColor=white&label=)
+
+![VS Code](https://img.shields.io/badge/-?style=flat-square&logo=visual-studio-code&logoColor=white&label=)
+![IntelliJ IDEA](https://img.shields.io/badge/-?style=flat-square&logo=intellij-idea&logoColor=white&label=)
+![CLion](https://img.shields.io/badge/-?style=flat-square&logo=clion&logoColor=white&label=)
+![Eclipse](https://img.shields.io/badge/-?style=flat-square&logo=eclipse&logoColor=white&label=)
+
+![Unity](https://img.shields.io/badge/-?style=flat-square&logo=unity&logoColor=white&label=)
+
 
 
 
