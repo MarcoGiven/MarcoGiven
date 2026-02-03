@@ -5,7 +5,7 @@
 -  Fun fact: I have a tattoo of a monkey 🐒
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoGiven&layout=compact&theme=shadow_blue)
+![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoGiven&theme=dark&show_icons=true)
 
 ### 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
