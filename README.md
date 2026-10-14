@@ -1,7 +1,7 @@
 -  Hi, I’m @MarcoGiven
 -  Pronouns: He/Him
 -  I’m interested in software development, web design, and hardware modding!
--  How to reach me: info@marcogiven.com or marco.given@temple.edu
+-  How to reach me: info@marcogiven.com
 -  Fun fact: I have a tattoo of a monkey 🐒
 
 
